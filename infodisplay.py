@@ -51,8 +51,8 @@ fhemstr6        = "https://www.smartewelt.de/statcam/aq.txt"
 #-------------------------------------------------------------------------------
 # WiFi-Verbindung
 
-ssid            = "swlan371"
-password        = "1461131146113145"
+ssid            = "xxxxxxx"
+password        = "xxxxxxx"
 
 #-------------------------------------------------------------------------------
 # Stati
